@@ -1,9 +1,9 @@
 [
   {
     "full_name": "basarat/typescript-book",
-    "stargazers_count": 16926,
+    "stargazers_count": 16949,
     "open_issues_count": 145,
-    "forks_count": 2141
+    "forks_count": 2144
   },
   {
     "full_name": "pankod/canvas2video",
@@ -13,38 +13,38 @@
   },
   {
     "full_name": "mifi/editly",
-    "stargazers_count": 3316,
+    "stargazers_count": 3318,
     "open_issues_count": 77,
     "forks_count": 175
   },
   {
     "full_name": "fabricjs/fabric.js",
-    "stargazers_count": 21399,
-    "open_issues_count": 272,
-    "forks_count": 3021
+    "stargazers_count": 21424,
+    "open_issues_count": 265,
+    "forks_count": 3023
   },
   {
     "full_name": "kelseyhightower/nocode",
-    "stargazers_count": 52131,
-    "open_issues_count": 4155,
-    "forks_count": 4520
+    "stargazers_count": 52166,
+    "open_issues_count": 4156,
+    "forks_count": 4522
   },
   {
     "full_name": "GokuMohandas/MadeWithML",
-    "stargazers_count": 29815,
+    "stargazers_count": 29833,
     "open_issues_count": 4,
-    "forks_count": 5015
+    "forks_count": 5018
   },
   {
     "full_name": "wasdk/WebAssemblyStudio",
-    "stargazers_count": 2838,
+    "stargazers_count": 2839,
     "open_issues_count": 124,
-    "forks_count": 256
+    "forks_count": 257
   },
   {
     "full_name": "phoboslab/jsmpeg",
-    "stargazers_count": 5669,
-    "open_issues_count": 174,
+    "stargazers_count": 5675,
+    "open_issues_count": 175,
     "forks_count": 1370
   },
   {
@@ -62,30 +62,30 @@
   {
     "full_name": "jolibrain/deepdetect",
     "stargazers_count": 2348,
-    "open_issues_count": 87,
-    "forks_count": 541
+    "open_issues_count": 88,
+    "forks_count": 542
   },
   {
     "full_name": "huggingface/neuralcoref",
-    "stargazers_count": 2509,
+    "stargazers_count": 2511,
     "open_issues_count": 56,
     "forks_count": 440
   },
   {
     "full_name": "sloria/TextBlob",
-    "stargazers_count": 8091,
+    "stargazers_count": 8097,
     "open_issues_count": 102,
-    "forks_count": 1074
+    "forks_count": 1076
   },
   {
     "full_name": "Machine-Learning-Tokyo/AI_Curriculum",
-    "stargazers_count": 2240,
+    "stargazers_count": 2241,
     "open_issues_count": 2,
     "forks_count": 381
   },
   {
     "full_name": "cortexlabs/cortex",
-    "stargazers_count": 7715,
+    "stargazers_count": 7717,
     "open_issues_count": 110,
     "forks_count": 590
   },
@@ -97,8 +97,8 @@
   },
   {
     "full_name": "fission/fission",
-    "stargazers_count": 6853,
-    "open_issues_count": 205,
+    "stargazers_count": 6860,
+    "open_issues_count": 207,
     "forks_count": 694
   },
   {
@@ -115,7 +115,7 @@
   },
   {
     "full_name": "eko/gocache",
-    "stargazers_count": 1117,
+    "stargazers_count": 1122,
     "open_issues_count": 13,
     "forks_count": 115
   },
@@ -133,9 +133,9 @@
   },
   {
     "full_name": "theanalyst/awesome-distributed-systems",
-    "stargazers_count": 7652,
+    "stargazers_count": 7661,
     "open_issues_count": 11,
-    "forks_count": 1142
+    "forks_count": 1143
   },
   {
     "full_name": "akiran/graphql-asia-2019-workshop",
@@ -151,7 +151,7 @@
   },
   {
     "full_name": "astorfi/TensorFlow-World",
-    "stargazers_count": 4532,
+    "stargazers_count": 4531,
     "open_issues_count": 3,
     "forks_count": 433
   },
@@ -175,8 +175,8 @@
   },
   {
     "full_name": "ShangtongZhang/DeepRL",
-    "stargazers_count": 2705,
+    "stargazers_count": 2709,
     "open_issues_count": 5,
-    "forks_count": 609
+    "forks_count": 608
   }
 ]
