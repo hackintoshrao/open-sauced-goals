@@ -1,9 +1,9 @@
 [
   {
     "full_name": "basarat/typescript-book",
-    "stargazers_count": 17648,
+    "stargazers_count": 17668,
     "open_issues_count": 143,
-    "forks_count": 2244
+    "forks_count": 2246
   },
   {
     "full_name": "pankod/canvas2video",
@@ -13,27 +13,27 @@
   },
   {
     "full_name": "mifi/editly",
-    "stargazers_count": 3459,
+    "stargazers_count": 3460,
     "open_issues_count": 82,
     "forks_count": 189
   },
   {
     "full_name": "fabricjs/fabric.js",
-    "stargazers_count": 22196,
-    "open_issues_count": 255,
-    "forks_count": 3069
+    "stargazers_count": 22219,
+    "open_issues_count": 258,
+    "forks_count": 3072
   },
   {
     "full_name": "kelseyhightower/nocode",
-    "stargazers_count": 53164,
-    "open_issues_count": 4198,
-    "forks_count": 4562
+    "stargazers_count": 53190,
+    "open_issues_count": 4203,
+    "forks_count": 4561
   },
   {
     "full_name": "GokuMohandas/MadeWithML",
-    "stargazers_count": 30397,
+    "stargazers_count": 30418,
     "open_issues_count": 3,
-    "forks_count": 5048
+    "forks_count": 5054
   },
   {
     "full_name": "wasdk/WebAssemblyStudio",
@@ -43,9 +43,9 @@
   },
   {
     "full_name": "phoboslab/jsmpeg",
-    "stargazers_count": 5776,
+    "stargazers_count": 5780,
     "open_issues_count": 181,
-    "forks_count": 1388
+    "forks_count": 1390
   },
   {
     "full_name": "IncredibleDevHQ/incredible-dev-videos",
@@ -55,37 +55,37 @@
   },
   {
     "full_name": "gnes-ai/gnes",
-    "stargazers_count": 1235,
+    "stargazers_count": 1236,
     "open_issues_count": 16,
     "forks_count": 216
   },
   {
     "full_name": "jolibrain/deepdetect",
-    "stargazers_count": 2374,
+    "stargazers_count": 2375,
     "open_issues_count": 88,
     "forks_count": 548
   },
   {
     "full_name": "huggingface/neuralcoref",
-    "stargazers_count": 2564,
-    "open_issues_count": 53,
+    "stargazers_count": 2565,
+    "open_issues_count": 54,
     "forks_count": 443
   },
   {
     "full_name": "sloria/TextBlob",
-    "stargazers_count": 8216,
+    "stargazers_count": 8217,
     "open_issues_count": 107,
     "forks_count": 1082
   },
   {
     "full_name": "Machine-Learning-Tokyo/AI_Curriculum",
-    "stargazers_count": 2253,
+    "stargazers_count": 2252,
     "open_issues_count": 2,
     "forks_count": 386
   },
   {
     "full_name": "cortexlabs/cortex",
-    "stargazers_count": 7764,
+    "stargazers_count": 7767,
     "open_issues_count": 113,
     "forks_count": 593
   },
@@ -97,9 +97,9 @@
   },
   {
     "full_name": "fission/fission",
-    "stargazers_count": 7079,
-    "open_issues_count": 189,
-    "forks_count": 710
+    "stargazers_count": 7084,
+    "open_issues_count": 187,
+    "forks_count": 712
   },
   {
     "full_name": "nikhita/tech-conferences-india",
@@ -115,9 +115,9 @@
   },
   {
     "full_name": "eko/gocache",
-    "stargazers_count": 1379,
+    "stargazers_count": 1388,
     "open_issues_count": 14,
-    "forks_count": 132
+    "forks_count": 131
   },
   {
     "full_name": "dgraph-io/workshop",
@@ -127,15 +127,15 @@
   },
   {
     "full_name": "MoonHighway/learning-graphql",
-    "stargazers_count": 623,
+    "stargazers_count": 624,
     "open_issues_count": 10,
     "forks_count": 178
   },
   {
     "full_name": "theanalyst/awesome-distributed-systems",
-    "stargazers_count": 8093,
+    "stargazers_count": 8125,
     "open_issues_count": 11,
-    "forks_count": 1194
+    "forks_count": 1195
   },
   {
     "full_name": "akiran/graphql-asia-2019-workshop",
@@ -153,7 +153,7 @@
     "full_name": "astorfi/TensorFlow-World",
     "stargazers_count": 4528,
     "open_issues_count": 3,
-    "forks_count": 432
+    "forks_count": 433
   },
   {
     "full_name": "yugabyte/yb-iot-fleet-management",
@@ -169,14 +169,14 @@
   },
   {
     "full_name": "istio/proxy",
-    "stargazers_count": 652,
-    "open_issues_count": 6,
+    "stargazers_count": 653,
+    "open_issues_count": 9,
     "forks_count": 428
   },
   {
     "full_name": "ShangtongZhang/DeepRL",
     "stargazers_count": 2776,
     "open_issues_count": 5,
-    "forks_count": 620
+    "forks_count": 619
   }
 ]
